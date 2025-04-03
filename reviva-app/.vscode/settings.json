@@ -1,0 +1,7 @@
+{
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "printWidth": 180, // Increase the printWidth
+  "semi": true,
+  "singleQuote": true
+}
